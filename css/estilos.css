@@ -24,3 +24,15 @@ header h1{
 	font-size: 18px;
 	color: black;
 }
+
+.redes{
+	border-top: solid black 1px;
+	display:flex;
+	margin: 0 auto;
+	flex-direction: column;
+}
+
+.redes img{
+	width: 3rem;
+	padding: 10px;
+}
