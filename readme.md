@@ -1,16 +1,3 @@
-# Título
+# Iterator GitHub
 
-Documentación
-
-- Paso 1
-
-
-
-## Subtítulo
-
-- Paso 1
-
-- Item
-- Item
-- Item
-- Item
+Este repositorio está hecho para prácticar GitHub con un proyecto aleatorio de HTML y CSS.
